@@ -1,3 +1,5 @@
+// reverse an array
+
 const arr = [1, 4, 3, 2];
 const b = [];
 for (i = arr.length - 1; i > -1; i--) {
